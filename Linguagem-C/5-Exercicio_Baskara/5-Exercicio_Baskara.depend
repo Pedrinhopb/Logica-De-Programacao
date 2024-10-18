@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1729120706 source:c:\users\pedro paulo\desktop\c\5-exercicio_baskara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

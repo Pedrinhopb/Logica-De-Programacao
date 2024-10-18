@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1729118283 source:c:\users\pedro paulo\desktop\c\2-exercicio_retangulo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
